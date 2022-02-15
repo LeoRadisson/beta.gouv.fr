@@ -12,4 +12,4 @@ badges:
   - segur
 ---
 
-Product Manager à la Bonne Alternance et amateur de sports de glisse
+
